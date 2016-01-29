@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAW;EACT,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,MAAM,EAAE,GAAG;EACX,UAAU,EAAE,KAAK;EACjB,aAAa,EAAE,KAAK;;AAEtB,WAAW;EACT,WAAW,EAAE,MAAM",
+"sources": ["../sass/votarr.sass"],
+"names": [],
+"file": "votarr.css"
+}

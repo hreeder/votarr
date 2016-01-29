@@ -1,0 +1,12 @@
+.choice-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em; }
+
+.edit-title {
+  margin-left: 0.25em; }
+
+/*# sourceMappingURL=votarr.css.map */

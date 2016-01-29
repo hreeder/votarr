@@ -1,0 +1,26 @@
+{
+  "name": "votarr",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Harry Reeder <harry@harryreeder.co.uk>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.6",
+    "bootstrap": "~3.3.6",
+    "bootswatch": "~3.3.6+1",
+    "Chart.js": "~1.0.2",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
